@@ -21,6 +21,8 @@ import numpy as np
 arr=np.array(eval(input()))
 n=np.linalg.norm(arr,2)
 print("{:.2f}".format(n))
+
+
 ```
 
 ## Output:
